@@ -6,7 +6,6 @@
 void setup() {
 
   //Pino do led será saída
- //Pino com potenciômetro será entrada
 
 }
 

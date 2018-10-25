@@ -7,7 +7,6 @@ void setup() {
   // put your setup code here, to run once:
 
   pinMode(led,OUTPUT);//Pino do led será saída
-  pinMode(pot,INPUT);//Pino com potenciômetro será entrada
 
 }
 
